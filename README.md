@@ -15,6 +15,3 @@ Email: contact.qansh@gmail.com
 - [Facebook](https://www.facebook.com/profile.php?id=61577710455826)
 - [Instagram](https://instagram.com/qansh.in)
 
----
-
-Built with HTML, CSS, and JavaScript. No frameworks required!
