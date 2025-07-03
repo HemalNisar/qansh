@@ -2,14 +2,6 @@
 
 A modern, animated landing page for QANSH with stunning visual effects and smooth animations.
 
-## 🚀 Features
-
-- **Animated Background** - Floating shapes, particles, and grid patterns
-- **Responsive Design** - Works on all devices
-- **Interactive Elements** - Mouse movement effects and hover animations
-- **Social Media Links** - Gmail, Facebook, and Instagram
-- **Modern UI** - Glass morphism effects and gradient backgrounds
-
 ## 📁 Files Needed
 
 - `index.html` - Main page
@@ -19,7 +11,7 @@ A modern, animated landing page for QANSH with stunning visual effects and smoot
 
 ## 🌐 Live Demo
 
-Visit: [yourdomain.com](https://yourdomain.com)
+Visit: [qansh.in](https://qansh.in)
 
 ## 📧 Contact
 
